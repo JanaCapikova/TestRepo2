@@ -12,3 +12,4 @@ Feature branch changes GitHub
 Testujeme lokální změny a jejich propagaci online. 
 
 Testujeme merge funkcionalitu.
+Testujeme konfliktní zmenu z feature branche.
